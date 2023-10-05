@@ -1,8 +1,8 @@
-# Admin Panel Honeypot
-Harvest malicious IP-Addresses and attempted brute force attempts.
+# Web Honeypot
+Harvest malicious IP-Addresses searching for vulnerable sites
 
 <p align="center">
-  <img src="https://github.com/csduncan06/Admin-Panel-Honeypot/blob/main/preview.png?raw=true" alt="Honeypot Preview"/>
+  <img src="https://github.com/csduncan06/web-honeypot/blob/main/preview.png?raw=true" alt="Honeypot Preview"/>
 </p>
 
 ## Prerequisites
@@ -11,9 +11,6 @@ Harvest malicious IP-Addresses and attempted brute force attempts.
 - requests
 - flask
 
-
-
 ## Features
-- Easily exploitable login endpoint (https://x.x.x.x/login?username=admin?password=admin)
 - Fake data for google crawling
-- Attackers attack count
+- Logs date, ip, location, user agent
