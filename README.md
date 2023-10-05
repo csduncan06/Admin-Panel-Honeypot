@@ -2,7 +2,7 @@
 Harvest malicious IP-Addresses and attempted brute force attempts.
 
 <p align="center">
-  <img src="https://github.com/csduncan06/Admin-Panel-Honeypot/blob/main/preview.jpg?raw=true" alt="Honeypot Preview"/>
+  <img src="https://github.com/csduncan06/Admin-Panel-Honeypot/blob/main/preview.png?raw=true" alt="Honeypot Preview"/>
 </p>
 
 ## Prerequisites
